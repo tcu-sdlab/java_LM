@@ -12,6 +12,8 @@
 5:出力ボタンで自然さを行単位で出力する.
 
 ### 使用したライブラリ
-openpyxl Excelファイルをpythonで使用するために導入
+tkinter GUI作成に使用.おそらく誰でも初期から入ってる
+
+openpyxl Excelファイルをpythonで使用するために導入　
 
 pygments 字句解析に使用
